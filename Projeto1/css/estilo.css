@@ -1,0 +1,46 @@
+#principal {
+	width: 900px;
+}
+
+#menu {
+	background: #5cbec6;
+	padding: 18px;
+	text-align: right;
+}
+
+#conteudo {
+	background: #e3f5f4;
+	padding: 10px;
+	text-align: justify;
+}
+
+#rodape {
+	text-align: center;
+}
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
+div{
+	margin: 0 auto;
+}
+
+form {
+    margin: 0 auto;
+    width: 840px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+body{
+	background: #ffff;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
