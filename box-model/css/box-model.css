@@ -7,7 +7,7 @@ span{
 }
 
 .inline{
-    display:inline;
+    display: flex;
     width: 100px;
     height: 100px;
     padding: 5px;
@@ -16,7 +16,7 @@ span{
 }
 
 .block{
-    display:inline-;
+    display:inline;
     width: 100px;
     height: 100px;
     padding: 5px;
