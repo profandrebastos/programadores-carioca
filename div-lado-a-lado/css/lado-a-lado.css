@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+.container{
+    width: 200px;
+    margin: 15% auto;      
+}
+.conteudo{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    margin-right: -4px;
+    text-align: center;
+}
+
+
+.azul{
+    background-color: blue;
+}
+.amarelo{
+    background-color: yellow;
+}
+.verde{
+    background-color: green;
+}
+.vermelho{
+    background-color: red;
+}
+
+
+
